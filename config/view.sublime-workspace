@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"val_in"
+			],
+			[
+				"array",
+				"array_var"
+			],
+			[
+				"fetch_asso",
+				"cubrid_fetch_assoc"
+			],
+			[
+				"fetch_",
+				"cubrid_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/expressapp/database/migrations/2014_10_12_000000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/expressapp/config/app.php",
+		"/home/nandakumar-ramu/angular/base/src/app/app.component.html",
+		"/home/nandakumar-ramu/angular/base/src/app/customer/customer.component.html",
+		"/var/www/html/expressapp/index.php",
+		"/var/www/html/learner/resources/views/welcome.blade.php",
+		"/home/nandakumar-ramu/angular/base/src/index.html",
+		"/home/nandakumar-ramu/angular/base/src/app/customer/customer.component.ts",
+		"/home/nandakumar-ramu/angular/base/src/app/customer-list/customer-list.component.ts",
+		"/var/www/html/learner/app/Company.php",
+		"/var/www/html/learner/routes/web.php",
+		"/var/www/html/learner/resources/views/company/create.blade.php",
+		"/var/www/html/learner/app/Http/Controllers/CompanyController.php",
+		"/var/www/html/html2text/src/Html2Text.php",
+		"/var/www/html/learner/app/Http/Kernel.php",
+		"/var/www/html/learner/composer.json",
+		"/var/www/html/learner/app/Http/Controllers/ConfigController.php",
+		"/var/www/html/learner/config/app.php",
+		"/var/www/html/learner/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/learner/.env",
+		"/var/www/html/learner/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/learner/config/database.php",
+		"/home/nandakumar-ramu/angular/gods/src/app/app.component.html",
+		"/home/nandakumar-ramu/angular/gods/src/app/app.module.ts",
+		"/home/nandakumar-ramu/angular/gods/src/app/app.component.ts",
+		"/home/nandakumar-ramu/angular/Myfirst/src/index.html",
+		"/home/nandakumar-ramu/angular/Myfirst/src/app/app.component.html",
+		"/home/nandakumar-ramu/angular/my-app/src/app/app.component.css",
+		"/home/nandakumar-ramu/angular/my-app/src/app/app.component.ts",
+		"/home/nandakumar-ramu/angular/my-app/src/app/app.component.html",
+		"/home/nandakumar-ramu/angular/my-app/src/index.html",
+		"/home/nandakumar-ramu/.npm/_logs/2019-09-09T16_53_55_578Z-debug.log",
+		"/home/nandakumar-ramu/experiments/practice.py",
+		"/home/nandakumar-ramu/experiments/dual",
+		"/etc/apache2/apache2.conf",
+		"/var/www/html/learner/index.php",
+		"/var/www/html/learn/practice.php",
+		"/var/www/html/learn/test.php",
+		"/var/www/html/learner/resources/views/config-list.blade.php",
+		"/var/www/html/learner/.htaccess",
+		"/var/www/html/learner/app/Project.php",
+		"/etc/apt/sources.list",
+		"/var/www/html/learner/storage/logs/laravel.log",
+		"/home/nandakumar-ramu/angular/hellow-world/package.json",
+		"/var/www/html/learner/app/Http/Controllers/ConfigContoller.php",
+		"/var/www/learn/test.php",
+		"/var/www/html/learner/app/Http/Controllers/Auth/RegisterController.php",
+		"/opt/lampp/htdocs/practice/add.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Indexes",
+			"auth",
+			"mod_au",
+			"mod",
+			"angular-cli",
+			"node",
+			"overwrite",
+			"owerwr",
+			"        <th>Name</th>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/expressapp/database/migrations/2014_10_12_000000_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "view.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
